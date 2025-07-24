@@ -1,4 +1,4 @@
-#Store movie name,language,ua from Mumbai locationfrom BookMyShow and store it in MongoDB
+#Store movie name,language,ua from Mumbai location from BookMyShow and store it in MongoDB
 
 import time
 import random
